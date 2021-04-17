@@ -1,0 +1,10 @@
+#myCanvas{
+    background-color: antiquewhite;
+    border-width: 10px;
+    border-style: ridge;
+}
+.body_background{
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
